@@ -1,4 +1,4 @@
 
 iframe {
-  position: fixed; z-index: 5; top: 10px;
+  position: absolute; z-index: 5; top: 10px;
 }
